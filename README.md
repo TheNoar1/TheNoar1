@@ -18,7 +18,7 @@ This is a fresh profile where I'll be uploading projects, and other things that 
 - Terraform
 
 
-A Bit About Myself
+## A Bit About Myself
 - I have a dog, who’s in my profile picture.
 - I’m a coffee person, but I don’t really like black coffee.
 - I love building things that are fun.
