@@ -1,4 +1,4 @@
-## Hi there 👋<img width="512" height="512" alt="512" src="https://github.com/user-attachments/assets/df902a82-f2d3-48b1-8c9e-1fdab1612022" />
+## Hi there 👋<img width="12" height="12" alt="12" src="https://github.com/user-attachments/assets/df902a82-f2d3-48b1-8c9e-1fdab1612022" />
 
 
 I'm Aaron, A Computer Science Student based in Singapore.
