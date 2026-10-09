@@ -2,11 +2,22 @@
 
 I'm Aaron, A Computer Science Student based in Singapore.
 
-As a student, I mostly work on DevOps projects, building and automating deployments with Docker, CI/CD pipelines, and AWS.
+As a student, I mostly work on DevOps projects with linux as the main OS, building and automating deployments with Docker, CI/CD pipelines, and AWS.
 
 This is a fresh profile where I'll be uploading projects, and other things that I'm currently working on. Everything here is built from scratch.
 
 -----------------------------------------------------------
+## Tools and Tech
+- Linux (Ubuntu), Bash, Python
+- Git, GitHub
+- Docker
+- GitHub Actions
+- AWS (EC2, S3, IAM, VPC)
+- Terraform
+
+-----------------------------------------------------------
+
+
 
 <!--
 **TheNoar1/TheNoar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
